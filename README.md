@@ -1,2 +1,2 @@
 # VisionLite
-🌭
+AR Glasses
